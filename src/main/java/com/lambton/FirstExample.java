@@ -11,5 +11,12 @@ public class FirstExample
             System.out.println("Monika Sharma");
         }
        //sample commit -1
+
+        while(int a=0)
+        {
+            System.out.println("test");
+
+        }
+        //Second Commit -2
     }
 }
