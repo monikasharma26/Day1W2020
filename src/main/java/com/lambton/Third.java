@@ -12,7 +12,7 @@ public class Third {
            // System.out.println();
         //}
         int i,j,count=0,icnt=0;
-        String s="welcome to toronto";
+        String s="welcome to toronto ";
         char[] ch= s.toCharArray();
         int length= ch.length;
        // int n= s.length();
